@@ -4,9 +4,9 @@ Este repositório contém o código da API de autenticação construída com Fla
 ## Funcionalidades
 A API oferece as seguintes funcionalidades:
 
-- **Login**: Permite que os usuários façam login na aplicação.</br>
-- **Logout**: Permite que os usuários façam logout da aplicação.</br>
-- **Cadastro de Novo Usuário**: Permite o cadastro de novos usuários.</br>
-- **Alteração de Senha**: Permite que os usuários alterem suas senhas.</br>
-- **Recuperação de Informações do Usuário**: Permite recuperar informações de um usuário específico.</br>
-- **Deleção de Usuário**: Permite deletar um usuário.</br>
+- **Login**
+- **Logout**
+- **Cadastro de Novo Usuário**
+- **Alteração de Senha**
+- **Recuperação de Informações do Usuário**
+- **Deleção de Usuário**
